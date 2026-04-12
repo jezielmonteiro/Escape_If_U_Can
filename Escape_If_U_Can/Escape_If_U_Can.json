@@ -19,7 +19,7 @@
     "sizeOnStartupMode": "adaptWidth",
     "templateSlug": "",
     "version": "1.0.0",
-    "name": "Escape_If_You_Can",
+    "name": "Escape_If_U_Can",
     "description": "",
     "author": "",
     "windowWidth": 320,
@@ -5516,7 +5516,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.6762448643325032,
+        "zoomFactor": 2.045294289472383,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -5569,20 +5569,20 @@
           "effects": [],
           "behaviors": [
             {
+              "acceleration": 800,
+              "deceleration": 800,
+              "gravity": 600,
+              "jumpSpeed": 300,
+              "maxSpeed": 150,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
-              "deceleration": 1500,
-              "gravity": 500,
               "ignoreDefaultControls": false,
-              "jumpSpeed": 300,
               "jumpSustainTime": 0.1,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 350,
-              "maxSpeed": 250,
               "slopeMaxAngle": 60,
               "useLegacyTrajectory": false,
               "useRepeatedJump": false,
@@ -6944,7 +6944,15 @@
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Link",
+          "include": {
+            "includeConfig": 0
+          },
+          "target": "PlayerEvents"
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -7400,7 +7408,232 @@
       "behaviorsSharedData": []
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "Level_1",
+      "name": "PlayerEvents",
+      "events": [
+        {
+          "colorB": 254,
+          "colorG": 19,
+          "colorR": 144,
+          "creationTime": 0,
+          "name": "Controls",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "colorB": 33,
+              "colorG": 211,
+              "colorR": 126,
+              "creationTime": 0,
+              "name": "Default Controls",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"a\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Left\""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"w\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Up\""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"d\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyFromTextPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Right\""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 33,
+              "colorG": 211,
+              "colorR": 126,
+              "creationTime": 0,
+              "name": "Flip Player",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CurrentSpeed"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject",
+                        ">",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::CurrentSpeed"
+                      },
+                      "parameters": [
+                        "Player",
+                        "PlatformerObject",
+                        "<",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
+          "parameters": []
+        }
+      ]
+    }
+  ],
   "eventsFunctionsExtensions": [],
   "externalLayouts": []
 }
