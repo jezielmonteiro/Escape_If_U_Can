@@ -5116,6 +5116,220 @@
         "name": "assets/tile/tiled_Tile 10 tiled sprite.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/enemies/plant_mutant/Plant Mutant_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/enemies/plant_mutant/Plant Mutant_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/enemies/plant_mutant/Plant Mutant_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/enemies/plant_mutant/Plant Mutant_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/enemies/plant_mutant/Plant Mutant_Attack_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/enemies/plant_mutant/Plant Mutant_Attack_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/enemies/plant_mutant/Plant Mutant_Attack_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/enemies/plant_mutant/Plant Mutant_Attack_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/enemies/plant_mutant/Plant Mutant_Attack_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/enemies/plant_mutant/Plant Mutant_Attack_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/enemies/plant_mutant/Plant Mutant_Attack_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/enemies/plant_mutant/Plant Mutant_Attack_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/enemies/plant_mutant/Plant Mutant_Attack_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/enemies/plant_mutant/Plant Mutant_Attack_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/Key.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/Key.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/key/Key.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/key/Key.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/key/cl_sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/key/cl_sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/key/cl_sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/key/cl_sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/key/cl_sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/key/cl_sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/key/cl_sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/key/cl_sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/key/cl_sprite_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/key/cl_sprite_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/key/cl_sprite_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/key/cl_sprite_6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "DePixelHalbfett.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "DePixelHalbfett.otf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/DePixelHalbfett.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/DePixelHalbfett.otf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/tiled_Lives big tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/tiled_Lives big tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/tiled_DeadLives big tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/tiled_DeadLives big tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/tiled_Lives big tiled sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/tiled_Lives big tiled sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/tiled_Lives big tiled sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/tiled_Lives big tiled sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/tiled_Lives big tiled sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/tiled_Lives big tiled sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/Lives.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/Lives.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/Lives_0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/Lives_0.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/Lives_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/Lives_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/Lives_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/Lives_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/ui/lives/Lives_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/ui/lives/Lives_3.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -5124,7 +5338,13 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "keyCount",
+      "type": "number",
+      "value": 0
+    }
+  ],
   "layouts": [
     {
       "b": 255,
@@ -5516,7 +5736,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.045294289472383,
+        "zoomFactor": 2.7566607586638763,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -5531,7 +5751,7 @@
           "height": 24,
           "keepRatio": true,
           "layer": "",
-          "name": "Grass_1",
+          "name": "Tiled_Grass",
           "persistentUuid": "363a467a-4469-477c-a374-58825744f2d8",
           "width": 640,
           "x": -160,
@@ -5556,6 +5776,119 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "UI_KeyCount",
+          "persistentUuid": "eefca211-03f9-4249-83e0-ddedc95f0a76",
+          "width": 0,
+          "x": 171,
+          "y": 3,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "UI_Key",
+          "persistentUuid": "63821223-ac42-41b4-99ae-1ce97315c200",
+          "width": 0,
+          "x": 158,
+          "y": 7,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "UI_Lives",
+          "persistentUuid": "e49ca9b2-9ed9-46f8-8bc4-3d7f97da2743",
+          "width": 0,
+          "x": 7,
+          "y": 10,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tiled_Grass",
+          "persistentUuid": "5000665e-4b3b-489c-8539-9de456a84017",
+          "width": 288,
+          "x": 192,
+          "y": 96,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Key",
+          "persistentUuid": "a3f05583-1b0f-4264-bc51-1d96b84e1a32",
+          "width": 0,
+          "x": 282,
+          "y": 81,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "7202ca87-e906-458a-aaea-ea2503e566dd",
+          "width": 0,
+          "x": 128,
+          "y": 128,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tiled_Grass",
+          "persistentUuid": "163346fa-990a-4dc6-b177-401cb5357561",
+          "width": 0,
+          "x": 96,
+          "y": 128,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -5570,6 +5903,11 @@
               "name": "doubleJump",
               "type": "number",
               "value": 0
+            },
+            {
+              "name": "life",
+              "type": "number",
+              "value": 3
             }
           ],
           "effects": [],
@@ -5587,13 +5925,13 @@
               "WasJumpKeyReleased": false
             },
             {
+              "maxSpeed": 150,
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 800,
               "deceleration": 800,
               "gravity": 600,
               "jumpSpeed": 300,
-              "maxSpeed": 150,
-              "name": "PlatformerObject",
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
               "canGrabWithoutMoving": true,
@@ -6934,7 +7272,7 @@
         {
           "assetStoreId": "",
           "height": 24,
-          "name": "Grass_1",
+          "name": "Tiled_Grass",
           "texture": "assets/tile/tiled_Tile 10 tiled sprite.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 24,
@@ -6949,6 +7287,889 @@
               "yGrabOffset": 0
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Plant_Mutant",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/plant_mutant/Plant Mutant_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/plant_mutant/Plant Mutant_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Attack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/plant_mutant/Plant Mutant_Attack_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/plant_mutant/Plant Mutant_Attack_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/plant_mutant/Plant Mutant_Attack_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/plant_mutant/Plant Mutant_Attack_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/plant_mutant/Plant Mutant_Attack_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 7
+                          },
+                          {
+                            "x": 33,
+                            "y": 32
+                          },
+                          {
+                            "x": 10,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Key",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.2,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Collect",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/cl_sprite_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/cl_sprite_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/cl_sprite_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/cl_sprite_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/cl_sprite_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/cl_sprite_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "UI_KeyCount",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "x0",
+          "font": "assets/font/DePixelHalbfett.otf",
+          "textAlignment": "left",
+          "characterSize": 8,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "x0",
+            "font": "assets/font/DePixelHalbfett.otf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 8,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "UI_Key",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/key/Key.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 0
+                          },
+                          {
+                            "x": 11,
+                            "y": 6
+                          },
+                          {
+                            "x": 0,
+                            "y": 6
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "UI_Lives",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Dead",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/ui/lives/Lives_0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 9
+                          },
+                          {
+                            "x": 1,
+                            "y": 9
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Critical",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/ui/lives/Lives_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 9
+                          },
+                          {
+                            "x": 1,
+                            "y": 9
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Damaged",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/ui/lives/Lives_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 9
+                          },
+                          {
+                            "x": 1,
+                            "y": 9
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Full",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/ui/lives/Lives_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 2
+                          },
+                          {
+                            "x": 24,
+                            "y": 9
+                          },
+                          {
+                            "x": 1,
+                            "y": 9
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -6958,7 +8179,22 @@
             "objectName": "Player"
           },
           {
-            "objectName": "Grass_1"
+            "objectName": "Plant_Mutant"
+          },
+          {
+            "objectName": "Key"
+          },
+          {
+            "objectName": "Tiled_Grass"
+          },
+          {
+            "objectName": "UI_Lives"
+          },
+          {
+            "objectName": "UI_Key"
+          },
+          {
+            "objectName": "UI_KeyCount"
           }
         ]
       },
@@ -6969,6 +8205,42 @@
             "includeConfig": 0
           },
           "target": "PlayerEvents"
+        },
+        {
+          "colorB": 254,
+          "colorG": 19,
+          "colorR": 144,
+          "creationTime": 0,
+          "name": "Life Bar",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                  },
+                  "parameters": [
+                    "UI_Lives",
+                    "Animation",
+                    "=",
+                    "Player.life"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -7074,6 +8346,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
     },
@@ -7449,6 +8725,7 @@
               "colorG": 211,
               "colorR": 126,
               "creationTime": 0,
+              "folded": true,
               "name": "Default Controls",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -7587,6 +8864,7 @@
               "colorG": 211,
               "colorR": 126,
               "creationTime": 0,
+              "folded": true,
               "name": "Flip",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -7655,11 +8933,13 @@
               "colorG": 211,
               "colorR": 126,
               "creationTime": 0,
+              "folded": true,
               "name": "Animations / Double Jump",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -7859,7 +9139,7 @@
                         "Player",
                         "doubleJump",
                         "<",
-                        "1"
+                        "2"
                       ]
                     },
                     {
@@ -7931,6 +9211,316 @@
                       ]
                     }
                   ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 33,
+              "colorG": 211,
+              "colorR": 126,
+              "creationTime": 0,
+              "name": "Collisions",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "colorB": 5,
+                  "colorG": 117,
+                  "colorR": 65,
+                  "creationTime": 0,
+                  "name": "Plant_Mutant",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Plant_Mutant",
+                            "",
+                            "",
+                            "no"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::Gravity"
+                          },
+                          "parameters": [
+                            "Player",
+                            "PlatformerObject",
+                            "=",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceAL"
+                          },
+                          "parameters": [
+                            "Player",
+                            "RandomFloatInRange(60,120)",
+                            "-500",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "OpacityCapability::OpacityBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Opacity",
+                            "=",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "OpacityCapability::OpacityBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Opacity",
+                            "=",
+                            "255"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberObjectVariable"
+                          },
+                          "parameters": [
+                            "Player",
+                            "life",
+                            "-",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.2"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ClearForces"
+                          },
+                          "parameters": [
+                            "Player"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::Gravity"
+                          },
+                          "parameters": [
+                            "Player",
+                            "PlatformerObject",
+                            "=",
+                            "600"
+                          ]
+                        }
+                      ],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Player",
+                                "life",
+                                ">",
+                                "0"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                              },
+                              "parameters": [
+                                "UI_Lives",
+                                "Animation",
+                                "=",
+                                "Player.life"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberObjectVariable"
+                              },
+                              "parameters": [
+                                "Player",
+                                "life",
+                                "<=",
+                                "0"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+                              },
+                              "parameters": [
+                                "UI_Lives",
+                                "Animation",
+                                "=",
+                                "0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "Player",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "3"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "keyCount",
+                                "=",
+                                "0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Scene"
+                              },
+                              "parameters": [
+                                "",
+                                "\"Level_1\"",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 28,
+                  "colorG": 231,
+                  "colorR": 248,
+                  "creationTime": 0,
+                  "name": "Key",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Key",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Key",
+                            "Animation",
+                            "=",
+                            "\"Collect\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                          },
+                          "parameters": [
+                            "Key",
+                            "Animation"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "keyCount",
+                            "+",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "UI_KeyCount",
+                            "Text",
+                            "=",
+                            "\"x\" +keyCount"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Key",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
                 }
               ],
               "parameters": []
