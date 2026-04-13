@@ -5330,6 +5330,94 @@
         "name": "assets/ui/lives/Lives_3.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/Chest_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/Chest_Closed.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/Chest_Opening_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/Chest_Opening_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/Chest_Opening_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/Chest_Opening_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/Chest_Opening_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/Chest_Opening_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/Chest_Opening_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/Chest_Opening_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/cl_sprite_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/cl_sprite_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/cl_sprite_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/cl_sprite_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/cl_sprite_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/cl_sprite_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/cl_sprite_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/cl_sprite_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/cl_sprite_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/cl_sprite_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/chest/cl_sprite_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/chest/cl_sprite_6.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -5853,7 +5941,7 @@
           "width": 0,
           "x": 282,
           "y": 81,
-          "zOrder": 7,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5886,6 +5974,39 @@
           "x": 96,
           "y": 128,
           "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tiled_Grass",
+          "persistentUuid": "474babac-1c07-4127-a7da-4e62372635ef",
+          "width": 64,
+          "x": 0,
+          "y": 64,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chest",
+          "persistentUuid": "460e5fd4-9a96-4d48-a822-47c402348233",
+          "width": 0,
+          "x": 0,
+          "y": 40,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8178,6 +8299,458 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Chest",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Closed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/Chest_Closed.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Opening",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/Chest_Opening_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/Chest_Opening_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/Chest_Opening_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/Chest_Opening_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Opened",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/cl_sprite_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/cl_sprite_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/cl_sprite_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/cl_sprite_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/cl_sprite_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/chest/cl_sprite_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 4,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 14
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 4,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -8188,6 +8761,9 @@
           },
           {
             "objectName": "Plant_Mutant"
+          },
+          {
+            "objectName": "Chest"
           },
           {
             "objectName": "Key"
@@ -8375,7 +8951,23 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 249,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridDepth": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridOffsetZ": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 2.1875,
+        "windowMask": false,
+        "selectedLayer": "",
+        "gameEditorMode": "instances-editor"
+      },
       "objectsGroups": [],
       "variables": [],
       "instances": [],
@@ -9241,6 +9833,7 @@
                   "colorG": 117,
                   "colorR": 65,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Plant_Mutant",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -9596,6 +10189,138 @@
                           },
                           "parameters": [
                             "Key",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 42,
+                  "colorG": 87,
+                  "colorR": 139,
+                  "creationTime": 0,
+                  "name": "Chest",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Chest",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "keyCount",
+                            "=",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "keyCount",
+                            "-",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "UI_KeyCount",
+                            "Text",
+                            "=",
+                            "\"x\" +keyCount"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Chest",
+                            "Animation",
+                            "=",
+                            "\"Opening\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.625"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Chest",
+                            "Animation",
+                            "=",
+                            "\"Opened\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                          },
+                          "parameters": [
+                            "Chest",
+                            "Animation"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1.25"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Level_2\"",
                             ""
                           ]
                         }
