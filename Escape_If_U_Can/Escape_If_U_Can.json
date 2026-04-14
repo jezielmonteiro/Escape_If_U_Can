@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 265,
+    "build": 266,
     "major": 5,
     "minor": 6,
     "revision": 0
@@ -5418,6 +5418,381 @@
         "name": "assets/objects/chest/cl_sprite_6.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/tile/Tile 17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/Tile 17.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/tiled_Tile 30 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/tiled_Tile 30 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/Tile 9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/Tile 9.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/background/Merged Full Background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/background/Merged Full Background.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/PixeloidSans.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/PixeloidSans.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/KiwiSoda.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/KiwiSoda.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/mac's Minecraft.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/mac's Minecraft.otf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/Mojang-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/Mojang-Regular.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/04B_03__.TTF",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/04B_03__.TTF",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/pixelated.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/pixelated.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/Pixel Times.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/Pixel Times.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/SilomBol.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/SilomBol.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/BelanidiSerif-Regular.otf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/BelanidiSerif-Regular.otf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/computer_pixel-7.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/computer_pixel-7.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/nano.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/nano.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/Optixal.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/Optixal.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/PixelDart.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/PixelDart.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/Pixels.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/Pixels.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/zx-spectrum.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/zx-spectrum.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/Analog Whispers FREE.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/Analog Whispers FREE.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Pixel.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/font/advanced_pixel_lcd-7.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/advanced_pixel_lcd-7.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/ca.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/ca.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/8-bit-fortress.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/8-bit-fortress.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/font/pixelatedczs.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets/font/pixelatedczs.ttf",
+        "userAdded": false
+      },
+      {
+        "file": "assets/misc/Cave Entrance.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/misc/Cave Entrance.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/checkpoint/Checkpoint_On.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/checkpoint/Checkpoint_On.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/Tile 18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/Tile 18.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/Tile 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/Tile 1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/Tile 22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/Tile 22.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/tiled_Tile 4 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/tiled_Tile 4 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/Tile 37.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/Tile 37.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/Tile 11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/Tile 11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/tiled_Tile 5 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/tiled_Tile 5 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/moving_platform/Moving Platform_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/moving_platform/Moving Platform_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/moving_platform/Moving Platform_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/moving_platform/Moving Platform_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/moving_platform/Moving Platform_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/moving_platform/Moving Platform_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/moving_platform/Moving Platform_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/moving_platform/Moving Platform_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/moving_platform/Moving Platform_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/moving_platform/Moving Platform_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/misc/Bridge.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/misc/Bridge.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/misc/Bridge Handle_Small.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/misc/Bridge Handle_Small.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/plant/Bush foreground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/plant/Bush foreground.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/plant/Grass foreground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/plant/Grass foreground.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/Wood.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/Wood.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/Axe Wood.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/Axe Wood.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/Barrel.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/Barrel.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/Fence.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/Fence.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/tile/tiled_Tile 3 tiled sprite.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/tile/tiled_Tile 3 tiled sprite.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/background/tiled_Parallax Background Sky.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/background/tiled_Parallax Background Sky.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -5824,7 +6199,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.7566607586638763,
+        "zoomFactor": 1.6215651521553147,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -5832,39 +6207,6 @@
       "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 24,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tiled_Grass",
-          "persistentUuid": "363a467a-4469-477c-a374-58825744f2d8",
-          "width": 640,
-          "x": -160,
-          "y": 160,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Player",
-          "persistentUuid": "a6232f3e-b464-4781-a5cc-9edd334922da",
-          "width": 0,
-          "x": 8,
-          "y": 136,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -5875,7 +6217,7 @@
           "persistentUuid": "eefca211-03f9-4249-83e0-ddedc95f0a76",
           "width": 0,
           "x": 171,
-          "y": 3,
+          "y": -1,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -5917,14 +6259,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 24,
+          "height": 20,
           "keepRatio": true,
           "layer": "",
-          "name": "Tiled_Grass",
-          "persistentUuid": "5000665e-4b3b-489c-8539-9de456a84017",
-          "width": 288,
-          "x": 192,
-          "y": 96,
+          "name": "Tiled_Grass_10",
+          "persistentUuid": "9aef894d-b377-413a-91ad-f570e66fe497",
+          "width": 352,
+          "x": 0,
+          "y": 160,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -5936,11 +6278,45 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Key",
-          "persistentUuid": "a3f05583-1b0f-4264-bc51-1d96b84e1a32",
+          "name": "Player",
+          "persistentUuid": "3a517426-3c92-41a7-88f0-f2a0647d50e7",
           "width": 0,
-          "x": 282,
-          "y": 81,
+          "x": 4,
+          "y": 136,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Full_Background",
+          "persistentUuid": "76c473fe-9186-4f1c-bc22-98920b3f224a",
+          "width": 352,
+          "x": 0,
+          "y": 0,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 76,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_4",
+          "persistentUuid": "fe21c40c-0e9c-491d-9271-2f7c3a680102",
+          "width": 20,
+          "x": 332,
+          "y": 84,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -5952,28 +6328,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Plant_Mutant",
-          "persistentUuid": "7202ca87-e906-458a-aaea-ea2503e566dd",
+          "name": "Key",
+          "persistentUuid": "b8fe8888-f0d3-4925-9b20-cd8dec8d0f2b",
           "width": 0,
-          "x": 128,
-          "y": 128,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Tiled_Grass",
-          "persistentUuid": "163346fa-990a-4dc6-b177-401cb5357561",
-          "width": 0,
-          "x": 96,
-          "y": 128,
-          "zOrder": 9,
+          "x": 334,
+          "y": 55,
+          "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5985,12 +6345,45 @@
           "height": 24,
           "keepRatio": true,
           "layer": "",
-          "name": "Tiled_Grass",
-          "persistentUuid": "474babac-1c07-4127-a7da-4e62372635ef",
-          "width": 64,
+          "name": "Tile_1",
+          "persistentUuid": "9ec491dc-8ead-41ef-93e0-6a91aaaa9bfb",
+          "width": 20,
+          "x": 332,
+          "y": 64,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_37",
+          "persistentUuid": "7fed8767-0854-435a-ae1e-1f80dbaeea88",
+          "width": 0,
+          "x": 0,
+          "y": 84,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tiled_Grass_10",
+          "persistentUuid": "ed4e8213-5acf-45ee-ade2-4bd44df02bef",
+          "width": 24,
           "x": 0,
           "y": 64,
-          "zOrder": 11,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6002,11 +6395,530 @@
           "keepRatio": true,
           "layer": "",
           "name": "Chest",
-          "persistentUuid": "460e5fd4-9a96-4d48-a822-47c402348233",
+          "persistentUuid": "73a119c8-967d-4597-b1a5-b2f85692e14b",
           "width": 0,
           "x": 0,
           "y": 40,
-          "zOrder": 12,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "85bae38b-6542-4513-aeb1-dc5e1a747cb9",
+          "width": 0,
+          "x": 26,
+          "y": 128,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_11",
+          "persistentUuid": "37550945-1bbf-4cc0-a99e-2342985ec3bb",
+          "width": 0,
+          "x": 256,
+          "y": 64,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 72,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_4",
+          "persistentUuid": "c2f299ab-0ca3-4d15-9831-7d081b0ccbbd",
+          "width": 25,
+          "x": 255,
+          "y": 88,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 72,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_4",
+          "persistentUuid": "2cb85f67-2980-414a-a80d-8659bc29f2a0",
+          "width": 25,
+          "x": 119,
+          "y": 88,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_11",
+          "persistentUuid": "b9d33fec-4d5a-470c-abb6-a830ba28bc9d",
+          "width": 0,
+          "x": 120,
+          "y": 64,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "a1c4d2ae-9210-40e4-88a8-5c8f95230156",
+          "width": 0,
+          "x": 270,
+          "y": 128,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "54a79c94-ae04-49f4-87e7-ca3ce8ce9ede",
+          "width": 0,
+          "x": 300,
+          "y": 128,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bridge",
+          "persistentUuid": "8c36b191-696c-4360-b235-6ff4be14bbd8",
+          "width": 0,
+          "x": 144,
+          "y": 64,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bridge",
+          "persistentUuid": "f7af5c68-8a2b-4725-ab68-9fb1833b16a2",
+          "width": 0,
+          "x": 208,
+          "y": 64,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bridge_Handle_Small",
+          "persistentUuid": "d9dc3def-7936-4b22-8f6c-78c2d589d271",
+          "width": 0,
+          "x": 126,
+          "y": 43,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "af215194-1d8e-4e61-a6e3-51e3126d7a45",
+          "width": 0,
+          "x": 222,
+          "y": 33,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bush_Foreground",
+          "persistentUuid": "886840d2-8ab0-4e09-855f-cf6d65ca3b63",
+          "width": 0,
+          "x": 73,
+          "y": 136,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "d7f6b54d-56a1-4f6d-adec-b481964c6cf5",
+          "width": 0,
+          "x": 231,
+          "y": 136,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "c9dba6bd-2aab-44f3-97a3-692073a002c5",
+          "width": 0,
+          "x": 144,
+          "y": 136,
+          "zOrder": 43,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "b662176a-a355-4e95-879b-95d3d85a4839",
+          "width": 0,
+          "x": 0,
+          "y": 40,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Wood",
+          "persistentUuid": "494ce7c2-41a9-45f0-a456-a6855e18d684",
+          "width": 0,
+          "x": 185,
+          "y": 144,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "8ecae928-14f3-4054-af4b-dd10ba7d70c4",
+          "width": 0,
+          "x": 52,
+          "y": 136,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Axe_Wood",
+          "persistentUuid": "acbb8542-9950-483b-b48d-541a4eb5c800",
+          "width": 0,
+          "x": 192,
+          "y": 133,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrel",
+          "persistentUuid": "f55e8cd9-0f58-4518-a25f-55decfc24018",
+          "width": 0,
+          "x": 241,
+          "y": 144,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrel",
+          "persistentUuid": "63c7333d-7f50-42a9-9629-2249dcd41ebf",
+          "width": 0,
+          "x": 229,
+          "y": 144,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrel",
+          "persistentUuid": "30cb922b-e4a7-4879-8775-16c2a05656b2",
+          "width": 0,
+          "x": 235,
+          "y": 134,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrel",
+          "persistentUuid": "315b9145-e0ea-4b77-be8c-933f2e704266",
+          "width": 0,
+          "x": 169,
+          "y": 144,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fence",
+          "persistentUuid": "2d94a705-4a37-445a-9c01-39126d49fac8",
+          "width": 0,
+          "x": 100,
+          "y": 136,
+          "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "002b8cb2-0a26-4e4b-b796-4b2e2b7c6323",
+          "width": 0,
+          "x": 189,
+          "y": 136,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "8bc0a7d3-5c82-4a72-8742-fcb874095781",
+          "width": 0,
+          "x": 95,
+          "y": 136,
+          "zOrder": 40,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "2f6beb9f-9a72-46d3-9c7b-b5d91c43b1fd",
+          "width": 0,
+          "x": 294,
+          "y": 136,
+          "zOrder": 41,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fence",
+          "persistentUuid": "bfa80dba-62e4-400a-88eb-94f0ec95a04f",
+          "width": 0,
+          "x": 144,
+          "y": 136,
+          "zOrder": 42,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 244,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "b0cf205e-bbe9-4eec-a9bb-b395b06d8cbc",
+          "width": 32,
+          "x": 352,
+          "y": -64,
+          "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 256,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "948c71ab-760a-4142-8e91-b587ac235784",
+          "width": 32,
+          "x": -32,
+          "y": -64,
+          "zOrder": 45,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "5af23738-8a0e-4410-a92b-5df9a255e86d",
+          "width": 416,
+          "x": -32,
+          "y": 180,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "d65920ed-f111-457d-a625-9c6cf7d0cf6f",
+          "width": 416,
+          "x": -32,
+          "y": -96,
+          "zOrder": 48,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Parallax_Background",
+          "persistentUuid": "6adbc0cc-353e-48d2-9de0-8066d3df9880",
+          "width": 352,
+          "x": 0,
+          "y": -64,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7400,11 +8312,11 @@
         },
         {
           "assetStoreId": "",
-          "height": 24,
-          "name": "Tiled_Grass",
+          "height": 20,
+          "name": "Tiled_Grass_10",
           "texture": "assets/tile/tiled_Tile 10 tiled sprite.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 24,
+          "width": 20,
           "variables": [],
           "effects": [],
           "behaviors": [
@@ -7995,7 +8907,7 @@
         },
         {
           "assetStoreId": "",
-          "bold": true,
+          "bold": false,
           "italic": false,
           "name": "UI_KeyCount",
           "smoothed": true,
@@ -8005,16 +8917,16 @@
           "effects": [],
           "behaviors": [],
           "string": "x0",
-          "font": "assets/font/DePixelHalbfett.otf",
+          "font": "assets/font/04B_03__.TTF",
           "textAlignment": "left",
-          "characterSize": 8,
+          "characterSize": 16,
           "color": {
             "b": 255,
             "g": 255,
             "r": 255
           },
           "content": {
-            "bold": true,
+            "bold": false,
             "isOutlineEnabled": false,
             "isShadowEnabled": false,
             "italic": false,
@@ -8028,10 +8940,10 @@
             "smoothed": true,
             "underlined": false,
             "text": "x0",
-            "font": "assets/font/DePixelHalbfett.otf",
+            "font": "assets/font/04B_03__.TTF",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
-            "characterSize": 8,
+            "characterSize": 16,
             "lineHeight": 0,
             "color": "255;255;255"
           }
@@ -8310,10 +9222,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -8751,6 +9663,814 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 240,
+          "name": "Full_Background",
+          "texture": "assets/background/Merged Full Background.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 340,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "height": 20,
+          "name": "Tile_4",
+          "texture": "assets/tile/tiled_Tile 4 tiled sprite.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 20,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Tile_1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/tile/Tile 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "",
+          "name": "Tile_37",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/tile/Tile 37.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 4
+                          },
+                          {
+                            "x": 20,
+                            "y": 8
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 10,
+                            "y": 13
+                          },
+                          {
+                            "x": 8.5,
+                            "y": 16.5
+                          },
+                          {
+                            "x": 6,
+                            "y": 20
+                          },
+                          {
+                            "x": 4,
+                            "y": 22
+                          },
+                          {
+                            "x": 0,
+                            "y": 22
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Tile_11",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/tile/Tile 11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bridge",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/misc/Bridge.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 0
+                          },
+                          {
+                            "x": 48,
+                            "y": 7
+                          },
+                          {
+                            "x": 0,
+                            "y": 7
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bridge_Handle_Small",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/misc/Bridge Handle_Small.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 11
+                          },
+                          {
+                            "x": 18,
+                            "y": 11
+                          },
+                          {
+                            "x": 18,
+                            "y": 24
+                          },
+                          {
+                            "x": 7,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bush_Foreground",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/plant/Bush foreground.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 7
+                          },
+                          {
+                            "x": 46,
+                            "y": 7
+                          },
+                          {
+                            "x": 46,
+                            "y": 24
+                          },
+                          {
+                            "x": 3,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Grass_Foreground",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/plant/Grass foreground.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 20
+                          },
+                          {
+                            "x": 24,
+                            "y": 20
+                          },
+                          {
+                            "x": 24,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Wood",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/Wood.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 5
+                          },
+                          {
+                            "x": 29,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Axe_Wood",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/Axe Wood.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 3
+                          },
+                          {
+                            "x": 15,
+                            "y": 3
+                          },
+                          {
+                            "x": 15,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Barrel",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/Barrel.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 6
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 3,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fence",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/Fence.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 10
+                          },
+                          {
+                            "x": 19,
+                            "y": 10
+                          },
+                          {
+                            "x": 19,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 20,
+          "name": "Tile_3",
+          "texture": "assets/tile/tiled_Tile 3 tiled sprite.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 20,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 400,
+          "name": "Parallax_Background",
+          "texture": "assets/background/tiled_Parallax Background Sky.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 340,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -8769,7 +10489,52 @@
             "objectName": "Key"
           },
           {
-            "objectName": "Tiled_Grass"
+            "objectName": "Bridge_Handle_Small"
+          },
+          {
+            "objectName": "Bridge"
+          },
+          {
+            "objectName": "Fence"
+          },
+          {
+            "objectName": "Barrel"
+          },
+          {
+            "objectName": "Axe_Wood"
+          },
+          {
+            "objectName": "Wood"
+          },
+          {
+            "objectName": "Parallax_Background"
+          },
+          {
+            "objectName": "Full_Background"
+          },
+          {
+            "objectName": "Bush_Foreground"
+          },
+          {
+            "objectName": "Grass_Foreground"
+          },
+          {
+            "objectName": "Tiled_Grass_10"
+          },
+          {
+            "objectName": "Tile_1"
+          },
+          {
+            "objectName": "Tile_3"
+          },
+          {
+            "objectName": "Tile_4"
+          },
+          {
+            "objectName": "Tile_11"
+          },
+          {
+            "objectName": "Tile_37"
           },
           {
             "objectName": "UI_Lives"
@@ -9537,7 +11302,6 @@
               "colorG": 211,
               "colorR": 126,
               "creationTime": 0,
-              "folded": true,
               "name": "Animations / Double Jump",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -9743,7 +11507,7 @@
                         "Player",
                         "doubleJump",
                         "<",
-                        "2"
+                        "1"
                       ]
                     },
                     {
@@ -9824,6 +11588,7 @@
               "colorG": 211,
               "colorR": 126,
               "creationTime": 0,
+              "folded": true,
               "name": "Collisions",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
