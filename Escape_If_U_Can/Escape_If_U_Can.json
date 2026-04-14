@@ -11071,7 +11071,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.7911979166668814,
+        "zoomFactor": 1.163868265831334,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11358,7 +11358,7 @@
           "width": 0,
           "x": 4,
           "y": 136,
-          "zOrder": 87,
+          "zOrder": 98,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11489,7 +11489,7 @@
           "width": 0,
           "x": 312,
           "y": 48,
-          "zOrder": 71,
+          "zOrder": 96,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11766,22 +11766,6 @@
           "x": 341,
           "y": 144,
           "zOrder": 69,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Mineral_Orange",
-          "persistentUuid": "406a4c8a-f590-451c-9c91-bf92f0608a81",
-          "width": 0,
-          "x": 309,
-          "y": 48,
-          "zOrder": 70,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12073,7 +12057,7 @@
           "name": "Mushrooms",
           "persistentUuid": "c2dab916-4546-4c55-a961-ea034bf2c68d",
           "width": 0,
-          "x": 210,
+          "x": 192,
           "y": 136,
           "zOrder": 86,
           "numberProperties": [],
@@ -12139,7 +12123,7 @@
           "width": 0,
           "x": 275,
           "y": 41,
-          "zOrder": 91,
+          "zOrder": 99,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12188,6 +12172,70 @@
           "x": 264,
           "y": 68,
           "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mine_Carriage",
+          "persistentUuid": "b7caa8b5-ca5b-4e15-b9bd-3bb254511724",
+          "width": 0,
+          "x": 205,
+          "y": 136,
+          "zOrder": 93,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Pickaxe",
+          "persistentUuid": "4af21704-63d8-400b-8d5e-87fd0c1b7ff2",
+          "width": 0,
+          "x": 309,
+          "y": 144,
+          "zOrder": 94,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Crystal",
+          "persistentUuid": "78a6154a-c025-4d6a-a22d-7f5cc2403403",
+          "width": 0,
+          "x": 304,
+          "y": 32,
+          "zOrder": 95,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Lamp",
+          "persistentUuid": "afc73567-89e8-4775-a11c-af90feef785a",
+          "width": 0,
+          "x": 222,
+          "y": 47,
+          "zOrder": 97,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15823,16 +15871,16 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Cave_Under_Tile",
           "type": "Sprite",
@@ -15841,10 +15889,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -15887,8 +15935,64 @@
                             "y": 40
                           },
                           {
-                            "x": 0,
+                            "x": 84,
                             "y": 40
+                          },
+                          {
+                            "x": 80,
+                            "y": 38.5
+                          },
+                          {
+                            "x": 76,
+                            "y": 35
+                          },
+                          {
+                            "x": 76,
+                            "y": 30
+                          },
+                          {
+                            "x": 69,
+                            "y": 30
+                          },
+                          {
+                            "x": 59,
+                            "y": 25
+                          },
+                          {
+                            "x": 53,
+                            "y": 25
+                          },
+                          {
+                            "x": 46,
+                            "y": 22
+                          },
+                          {
+                            "x": 46,
+                            "y": 26
+                          },
+                          {
+                            "x": 42,
+                            "y": 28
+                          },
+                          {
+                            "x": 30,
+                            "y": 28
+                          },
+                          {
+                            "x": 23,
+                            "y": 32
+                          },
+                          {
+                            "x": 19,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 26
+                          },
+                          {
+                            "x": 0,
+                            "y": 26
                           }
                         ]
                       ]
@@ -15910,10 +16014,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -15928,10 +16032,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -16032,10 +16136,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -16220,10 +16324,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -16346,7 +16450,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16406,7 +16518,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16466,7 +16586,15 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -16708,10 +16836,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
