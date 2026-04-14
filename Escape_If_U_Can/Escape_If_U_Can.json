@@ -6086,6 +6086,11 @@
       "name": "keyCount",
       "type": "number",
       "value": 0
+    },
+    {
+      "name": "life",
+      "type": "number",
+      "value": 3
     }
   ],
   "layouts": [
@@ -6479,7 +6484,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.9457062705704593,
+        "zoomFactor": 2.1855559102531488,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -7232,11 +7237,6 @@
               "name": "doubleJump",
               "type": "number",
               "value": 0
-            },
-            {
-              "name": "life",
-              "type": "number",
-              "value": 3
             }
           ],
           "effects": [],
@@ -10998,7 +10998,7 @@
                     "UI_Lives",
                     "Animation",
                     "=",
-                    "Player.life"
+                    "GlobalVariable(life)"
                   ]
                 }
               ]
@@ -11143,7 +11143,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.259253576955882,
+        "zoomFactor": 1.7327683944533505,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -16622,10 +16622,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -16690,10 +16690,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -16758,10 +16758,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -17472,7 +17472,7 @@
                     "UI_Lives",
                     "Animation",
                     "=",
-                    "Player.life"
+                    "GlobalVariable(life)"
                   ]
                 }
               ]
@@ -17617,7 +17617,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.6215651521553722,
+        "zoomFactor": 1.4679972091402125,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -17947,7 +17947,7 @@
           "width": 0,
           "x": 4,
           "y": 136,
-          "zOrder": 100,
+          "zOrder": 90,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18279,7 +18279,7 @@
           "width": 0,
           "x": 151,
           "y": 20,
-          "zOrder": 101,
+          "zOrder": 75,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -22807,10 +22807,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -23019,10 +23019,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -23317,7 +23317,7 @@
                     "UI_Lives",
                     "Animation",
                     "=",
-                    "Player.life"
+                    "GlobalVariable(life)"
                   ]
                 }
               ]
@@ -24130,7 +24130,6 @@
               "colorG": 211,
               "colorR": 126,
               "creationTime": 0,
-              "folded": true,
               "name": "Collisions",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -24140,7 +24139,6 @@
                   "colorG": 117,
                   "colorR": 65,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Plant_Mutant",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -24200,10 +24198,9 @@
                         },
                         {
                           "type": {
-                            "value": "SetNumberObjectVariable"
+                            "value": "SetNumberVariable"
                           },
                           "parameters": [
-                            "Player",
                             "life",
                             "-",
                             "1"
@@ -24228,10 +24225,9 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "NumberObjectVariable"
+                                "value": "NumberVariable"
                               },
                               "parameters": [
-                                "Player",
                                 "life",
                                 ">",
                                 "0"
@@ -24247,7 +24243,7 @@
                                 "UI_Lives",
                                 "Animation",
                                 "=",
-                                "Player.life"
+                                "GlobalVariable(life)"
                               ]
                             }
                           ]
@@ -24257,10 +24253,9 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "NumberObjectVariable"
+                                "value": "NumberVariable"
                               },
                               "parameters": [
-                                "Player",
                                 "life",
                                 "<=",
                                 "0"
@@ -24293,6 +24288,16 @@
                                 "value": "Wait"
                               },
                               "parameters": [
+                                "3"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "life",
+                                "=",
                                 "3"
                               ]
                             },
