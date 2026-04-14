@@ -6017,6 +6017,62 @@
         "name": "assets/misc/Lamp right_On.png",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "file": "assets/build/House small background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/build/House small background.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/build/House tall background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/build/House tall background.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/build/House tall foreground.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/build/House tall foreground.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/build/House.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/build/House.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/plant/Bush Background Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/plant/Bush Background Shadow.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/flag/Hanging Flag_Blue.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/flag/Hanging Flag_Blue.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/objects/flag/Hanging Flag_Red.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/objects/flag/Hanging Flag_Red.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ]
   },
@@ -6423,7 +6479,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.114262288024752,
+        "zoomFactor": 2.9457062705704593,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11087,7 +11143,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.2031142879251013,
+        "zoomFactor": 2.259253576955882,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -11374,7 +11430,7 @@
           "width": 0,
           "x": 4,
           "y": 136,
-          "zOrder": 102,
+          "zOrder": 107,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11915,7 +11971,7 @@
           "width": 0,
           "x": 250,
           "y": 244,
-          "zOrder": 80,
+          "zOrder": 111,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -11931,7 +11987,7 @@
           "width": 0,
           "x": 218,
           "y": 244,
-          "zOrder": 81,
+          "zOrder": 110,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12139,7 +12195,7 @@
           "width": 0,
           "x": 275,
           "y": 41,
-          "zOrder": 103,
+          "zOrder": 108,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12316,6 +12372,40 @@
           "x": 118,
           "y": 128,
           "zOrder": 88,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Background",
+          "persistentUuid": "3d5c9b39-9319-4e6e-96b0-0486c32b6773",
+          "width": 32,
+          "x": 256,
+          "y": 252,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Background",
+          "persistentUuid": "9aa9c64f-0a5b-4a95-9eac-7ac20816707b",
+          "width": 32,
+          "x": 224,
+          "y": 252,
+          "zOrder": 109,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -17527,7 +17617,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 2.0452942894725115,
+        "zoomFactor": 1.6215651521553722,
         "windowMask": false,
         "selectedLayer": "",
         "gameEditorMode": "instances-editor"
@@ -17592,7 +17682,7 @@
           "layer": "",
           "name": "Tiled_Grass_10",
           "persistentUuid": "9aef894d-b377-413a-91ad-f570e66fe497",
-          "width": 352,
+          "width": 128,
           "x": 0,
           "y": 160,
           "zOrder": 6,
@@ -17660,7 +17750,7 @@
           "layer": "",
           "name": "Tile_3",
           "persistentUuid": "5af23738-8a0e-4410-a92b-5df9a255e86d",
-          "width": 416,
+          "width": 160,
           "x": -32,
           "y": 180,
           "zOrder": 47,
@@ -17713,7 +17803,911 @@
           "width": 0,
           "x": -3,
           "y": 136,
-          "zOrder": 49,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House_Small_Background",
+          "persistentUuid": "8809f0d4-cadd-43e2-8dcd-9f7797123006",
+          "width": 0,
+          "x": 0,
+          "y": 98,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House_Tall_Background",
+          "persistentUuid": "093947b8-0893-4e73-984a-812c85c46c9a",
+          "width": 0,
+          "x": 37,
+          "y": 85,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House_Small_Background",
+          "persistentUuid": "ebaaf384-8c9e-48a3-86f8-74c07031dcf6",
+          "width": 0,
+          "x": 81,
+          "y": 98,
+          "zOrder": 63,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House_Tall_Background",
+          "persistentUuid": "7d3ac232-47ba-4744-b55c-4873a97efe8d",
+          "width": 0,
+          "x": 163,
+          "y": 85,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House_Small_Background",
+          "persistentUuid": "1d4e67ea-a85f-4d80-b817-d80f4d3bdced",
+          "width": 0,
+          "x": 126,
+          "y": 98,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House",
+          "persistentUuid": "88214f6c-36f4-40d1-ad03-398b727aedbf",
+          "width": 0,
+          "x": 272,
+          "y": 96,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House_Small_Background",
+          "persistentUuid": "b14aebb6-ba03-4e39-b3ee-a94eca063677",
+          "width": 0,
+          "x": 207,
+          "y": 98,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House_Tall_Background",
+          "persistentUuid": "59dfa921-2af1-4476-bc83-9b8abffab003",
+          "width": 0,
+          "x": 244,
+          "y": 85,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Player",
+          "persistentUuid": "bf44f7d0-0759-41f8-af8f-489846638481",
+          "width": 0,
+          "x": 4,
+          "y": 136,
+          "zOrder": 100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tiled_Grass_10",
+          "persistentUuid": "d0b268d0-1cb7-4e25-b1ef-b6b991d29a3b",
+          "width": 23,
+          "x": 164,
+          "y": 44,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "c431c4ad-7c6d-44c4-9749-08149913c47e",
+          "width": 23,
+          "x": 163,
+          "y": 20,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_4",
+          "persistentUuid": "ff92379f-6447-4242-a0e8-72a2e1ec33ff",
+          "width": 25,
+          "x": 163,
+          "y": 64,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bush_Background_Shadow",
+          "persistentUuid": "a5b90367-85cb-46f7-a319-ffc295d19e5a",
+          "width": 0,
+          "x": 87,
+          "y": 133,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Key",
+          "persistentUuid": "b2fcf267-c752-47f4-8fa4-5fc5abcd470c",
+          "width": 0,
+          "x": 170,
+          "y": 34,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tiled_Grass_10",
+          "persistentUuid": "63b5f968-38f6-4259-85d7-33a5765166ad",
+          "width": 128,
+          "x": 224,
+          "y": 160,
+          "zOrder": 68,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tiled_Grass_10",
+          "persistentUuid": "35c6282c-0a0c-4d16-8783-4c9850b23d75",
+          "width": 32,
+          "x": 160,
+          "y": 160,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "bc50d009-0c99-46fb-9466-c599352b46da",
+          "width": 32,
+          "x": 160,
+          "y": 180,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "2bc8c6c3-9290-4972-8430-3f084dddb77e",
+          "width": 160,
+          "x": 224,
+          "y": 180,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "f86f0ae2-1121-4056-85bf-7bfc3eb71f27",
+          "width": 32,
+          "x": 224,
+          "y": 192,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "e3f904e8-6b0f-4518-a3c6-f3bf9de8478d",
+          "width": 32,
+          "x": 96,
+          "y": 192,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "d6182e1c-f281-452c-adaa-801a445b7009",
+          "width": 32,
+          "x": 160,
+          "y": 192,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "6dec7cd2-debb-4447-9770-6d1247c8016e",
+          "width": 32,
+          "x": 128,
+          "y": 276,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_3",
+          "persistentUuid": "b4dd2f0c-d13c-421d-805d-d58e2ae4df70",
+          "width": 32,
+          "x": 192,
+          "y": 276,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "a581c14b-1287-4934-9af1-9e777a659406",
+          "width": 0,
+          "x": 92,
+          "y": 128,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "34c3c85a-58c5-4ec3-b78f-adbf9a8272cc",
+          "width": 0,
+          "x": 212,
+          "y": 128,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "ca639d14-9296-431e-81d1-8b0ebf7226ba",
+          "width": 0,
+          "x": 59,
+          "y": 128,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "970be419-8ef7-4818-8421-ce29a29fe683",
+          "width": 0,
+          "x": 245,
+          "y": 128,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bridge",
+          "persistentUuid": "a5d10c75-fb44-457a-82e9-77707efbc5b8",
+          "width": 0,
+          "x": 116,
+          "y": 42,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bridge_Handle_Small",
+          "persistentUuid": "5dbe3935-2600-44a0-a7da-43ed9fb3d303",
+          "width": 0,
+          "x": 151,
+          "y": 20,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "df63eab5-b3f6-4693-bf8f-bf0b5f09d0d4",
+          "width": 0,
+          "x": 122,
+          "y": 244,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "fcfa6c77-ac8e-4149-8ca8-2f3849d97467",
+          "width": 0,
+          "x": 186,
+          "y": 244,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "c42f6b05-a495-4c54-a8ce-fc924d10e5b4",
+          "width": 32,
+          "x": 128,
+          "y": 160,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "daeb7109-aa6e-4016-8db9-7be63bf2764f",
+          "width": 32,
+          "x": 128,
+          "y": 192,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "284ecc83-6213-4c4f-a820-10c7edada813",
+          "width": 32,
+          "x": 128,
+          "y": 224,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "5db4105e-38df-48ed-9da9-c4e8d48a8dd4",
+          "width": 32,
+          "x": 128,
+          "y": 256,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "4db55213-1389-406e-b841-baf444554347",
+          "width": 32,
+          "x": 192,
+          "y": 160,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "41644eb5-578c-4fe7-b067-2e5a107d107a",
+          "width": 32,
+          "x": 192,
+          "y": 192,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "49d37b25-9a23-472a-86e4-799c69b93a41",
+          "width": 32,
+          "x": 192,
+          "y": 224,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_7",
+          "persistentUuid": "c6012f9a-169f-4106-9705-79abcd7d15cb",
+          "width": 32,
+          "x": 192,
+          "y": 256,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "db7a1b2c-62cd-4cb7-b909-5f0c8090ba41",
+          "width": 32,
+          "x": 192,
+          "y": 252,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "003ba2d5-948f-4d75-9020-90ab30cb42c1",
+          "width": 32,
+          "x": 128,
+          "y": 252,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chest",
+          "persistentUuid": "c3acaa30-7544-4ac5-bdf4-c15c90233202",
+          "width": 0,
+          "x": 323,
+          "y": 136,
+          "zOrder": 95,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Flag_Red",
+          "persistentUuid": "a3d53a01-9c41-45eb-b340-5dfb718c384b",
+          "width": 0,
+          "x": 167,
+          "y": 66,
+          "zOrder": 84,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bat",
+          "persistentUuid": "646e3984-98ed-4923-a668-c87b7193ebdc",
+          "width": 0,
+          "x": 128,
+          "y": 64,
+          "zOrder": 85,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 122,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_4",
+          "persistentUuid": "b93a4868-9cbf-4a34-892a-921be4ed596d",
+          "width": 25,
+          "x": 224,
+          "y": -64,
+          "zOrder": 66,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Plant_Mutant",
+          "persistentUuid": "3ba50317-7f01-4d27-b4a4-1b85a4844783",
+          "width": 0,
+          "x": 23,
+          "y": 128,
+          "zOrder": 86,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tile_36",
+          "persistentUuid": "36d967ae-956e-428f-b229-384be71c203d",
+          "width": 0,
+          "x": 225,
+          "y": 58,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 24,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bush_Foreground",
+          "persistentUuid": "09228f10-8e25-4a2e-813e-200513d66268",
+          "width": 35,
+          "x": 158,
+          "y": 136,
+          "zOrder": 88,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "7cf23cd0-b924-43e6-84ef-871de5fff463",
+          "width": 0,
+          "x": 19,
+          "y": 136,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Bush_Foreground",
+          "persistentUuid": "1fafdfd5-d246-42d5-8b54-73c1b781f6ab",
+          "width": 0,
+          "x": 57,
+          "y": 136,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "8769ec5d-66e7-476c-9c0d-750c0778a6c9",
+          "width": 0,
+          "x": 278,
+          "y": 136,
+          "zOrder": 93,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "a53cd657-7b4c-4a08-8718-17f667a2836e",
+          "width": 0,
+          "x": 244,
+          "y": 136,
+          "zOrder": 93,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Grass_Foreground",
+          "persistentUuid": "f84e0b1e-2195-4875-9cae-91f67e1f85b4",
+          "width": 0,
+          "x": 323,
+          "y": 136,
+          "zOrder": 96,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fence",
+          "persistentUuid": "e8fd0e32-fa47-40e7-bc8f-1bd9a136fa6a",
+          "width": 0,
+          "x": 343,
+          "y": 136,
+          "zOrder": 98,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Lamp_Right",
+          "persistentUuid": "03da4338-7f5d-4ab2-858e-f06881511107",
+          "width": 0,
+          "x": 223,
+          "y": 64,
+          "zOrder": 99,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -21382,6 +22376,802 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "House_Small_Background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/build/House small background.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 1
+                          },
+                          {
+                            "x": 44,
+                            "y": 1
+                          },
+                          {
+                            "x": 44,
+                            "y": 62
+                          },
+                          {
+                            "x": 0,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "House_Tall_Background",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/build/House tall background.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 58,
+                            "y": 0
+                          },
+                          {
+                            "x": 58,
+                            "y": 75
+                          },
+                          {
+                            "x": 0,
+                            "y": 75
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "House_Tall_Foreground",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/build/House tall foreground.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 14,
+                            "y": 5
+                          },
+                          {
+                            "x": 72,
+                            "y": 5
+                          },
+                          {
+                            "x": 72,
+                            "y": 80
+                          },
+                          {
+                            "x": 14,
+                            "y": 80
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "House",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/build/House.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 64
+                          },
+                          {
+                            "x": 3,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bush_Background_Shadow",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/plant/Bush Background Shadow.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 0
+                          },
+                          {
+                            "x": 59,
+                            "y": 27
+                          },
+                          {
+                            "x": 0,
+                            "y": 27
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Tile_7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/tile/Tile 7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 24
+                          },
+                          {
+                            "x": 0,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Flag_Red",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/objects/flag/Hanging Flag_Red.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 0
+                          },
+                          {
+                            "x": 18,
+                            "y": 66
+                          },
+                          {
+                            "x": 0,
+                            "y": 66
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bat",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Fly",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/bat/Bat_Fly_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 23
+                          },
+                          {
+                            "x": 7,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/bat/Bat_Fly_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 23
+                          },
+                          {
+                            "x": 7,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/bat/Bat_Fly_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 23
+                          },
+                          {
+                            "x": 7,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/bat/Bat_Fly_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 23
+                          },
+                          {
+                            "x": 7,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/enemies/bat/Bat_Fly_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 8
+                          },
+                          {
+                            "x": 21,
+                            "y": 23
+                          },
+                          {
+                            "x": 7,
+                            "y": 23
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Tile_36",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/tile/Tile 36.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 0
+                          },
+                          {
+                            "x": 24,
+                            "y": 22
+                          },
+                          {
+                            "x": 0,
+                            "y": 22
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Lamp_Right",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "On & Off",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/misc/Lamp right_Off.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 58
+                          },
+                          {
+                            "x": 0,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/misc/Lamp right_On.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 58
+                          },
+                          {
+                            "x": 0,
+                            "y": 58
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -21392,6 +23182,9 @@
           },
           {
             "objectName": "Plant_Mutant"
+          },
+          {
+            "objectName": "Bat"
           },
           {
             "objectName": "Chest"
@@ -21412,6 +23205,9 @@
             "objectName": "Fence"
           },
           {
+            "objectName": "Lamp_Right"
+          },
+          {
             "objectName": "Barrel"
           },
           {
@@ -21421,10 +23217,28 @@
             "objectName": "Wood"
           },
           {
+            "objectName": "House"
+          },
+          {
+            "objectName": "Flag_Red"
+          },
+          {
+            "objectName": "House_Small_Background"
+          },
+          {
+            "objectName": "House_Tall_Background"
+          },
+          {
+            "objectName": "House_Tall_Foreground"
+          },
+          {
             "objectName": "Parallax_Background"
           },
           {
             "objectName": "Full_Background"
+          },
+          {
+            "objectName": "Bush_Background_Shadow"
           },
           {
             "objectName": "Bush_Foreground"
@@ -21448,6 +23262,9 @@
             "objectName": "Tile_11"
           },
           {
+            "objectName": "Tile_36"
+          },
+          {
             "objectName": "Tile_37"
           },
           {
@@ -21458,6 +23275,9 @@
           },
           {
             "objectName": "UI_KeyCount"
+          },
+          {
+            "objectName": "Tile_7"
           }
         ]
       },
