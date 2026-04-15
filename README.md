@@ -13,8 +13,8 @@
     <li>✅ O game deverá ter pelo menos 3 fases;</li>
     <li>✅ O game também deverá conter um sistema de coleta (moedas ou itens) e um sistema de dano/morte do personagem.</li>
     <li>✅ A passagem de uma fase para outra deve ocorrer com base em algum objetivo alcançado durante a fase, como coletar um item específico, acionar um mecanismo, etc.</li>
-    <li>Se o personagem morrer, uma mensagem de derrota deverá ser mostrada na tela e deverá ser feita a pergunta se ele prentende jogar novamente ou voltar para o menu principal.</li>
-    <li>Ao alcancar o objetivo final, uma mensagem de vitoria deverá ser mostrada na tela e deverá ser feita a pergunta se ele prentende jogar novamente ou voltar para o menu principal.</li>
+    <li>✅ Se o personagem morrer, uma mensagem de derrota deverá ser mostrada na tela e deverá ser feita a pergunta se ele prentende jogar novamente ou voltar para o menu principal.</li>
+    <li>✅ Ao alcancar o objetivo final, uma mensagem de vitoria deverá ser mostrada na tela e deverá ser feita a pergunta se ele prentende jogar novamente ou voltar para o menu principal.</li>
     <li>✅ O personagem precisa pelo menos as animações mostradas no material da disciplina.</li>
     <li>✅ O personagem escolhido não pode ser o mesmo do material de apoio da disciplina.</li>
     <li>✅ Os assets usados no cenário, tanto no background como nos sprites, devem ser condizentes com o tema/história do game.</li>
